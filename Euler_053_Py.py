@@ -2,7 +2,6 @@
 #Euler Problem 053, Combinatoric selections, solved in Python
 #Started and finished 5 March 2022
 
-from itertools import combinations
 import math
 count = 0
 for n in range(1,101):
